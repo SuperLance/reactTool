@@ -1,1 +1,0 @@
-module.exports = 'resolved for modules_directory'
